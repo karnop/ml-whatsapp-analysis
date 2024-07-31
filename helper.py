@@ -1,6 +1,5 @@
 from matplotlib import pyplot as plt
 from urlextract import URLExtract
-from wordcloud import WordCloud
 from collections import Counter
 import pandas as pd
 import seaborn as sns
